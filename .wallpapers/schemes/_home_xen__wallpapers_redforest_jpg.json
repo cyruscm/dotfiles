@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/xen/.wallpapers/redforest.jpg",
+    "special": {
+        "background": "#120F0E",
+        "foreground": "#E9BB91",
+        "cursor": "#E9BB91"
+    },
+    "colors": {
+        "color0": "#120F0E",
+        "color1": "#981D14",
+        "color2": "#C4533C",
+        "color3": "#A36250",
+        "color4": "#B38965",
+        "color5": "#E0976B",
+        "color6": "#808B81",
+        "color7": "#E9BB91",
+        "color8": "#706f6e",
+        "color9": "#981D14",
+        "color10": "#C4533C",
+        "color11": "#A36250",
+        "color12": "#B38965",
+        "color13": "#E0976B",
+        "color14": "#808B81",
+        "color15": "#E9BB91"
+    }
+}

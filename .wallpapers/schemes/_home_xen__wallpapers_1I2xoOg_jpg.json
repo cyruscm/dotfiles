@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/xen/.wallpapers/1I2xoOg.jpg",
+    "special": {
+        "background": "#1E271A",
+        "foreground": "#EFF1F1",
+        "cursor": "#EFF1F1"
+    },
+    "colors": {
+        "color0": "#1E271A",
+        "color1": "#5379A2",
+        "color2": "#688DB1",
+        "color3": "#70A0C9",
+        "color4": "#979E9B",
+        "color5": "#A9BFCE",
+        "color6": "#D3DBE0",
+        "color7": "#EFF1F1",
+        "color8": "#787d75",
+        "color9": "#5379A2",
+        "color10": "#688DB1",
+        "color11": "#70A0C9",
+        "color12": "#979E9B",
+        "color13": "#A9BFCE",
+        "color14": "#D3DBE0",
+        "color15": "#EFF1F1"
+    }
+}

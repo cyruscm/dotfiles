@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/xen/.wallpapers/carmine.jpg",
+    "special": {
+        "background": "#2E2F3B",
+        "foreground": "#C7C79E",
+        "cursor": "#C7C79E"
+    },
+    "colors": {
+        "color0": "#2E2F3B",
+        "color1": "#817D62",
+        "color2": "#7A846C",
+        "color3": "#90906E",
+        "color4": "#A6A27A",
+        "color5": "#B5B188",
+        "color6": "#C1BE95",
+        "color7": "#C7C79E",
+        "color8": "#818289",
+        "color9": "#817D62",
+        "color10": "#7A846C",
+        "color11": "#90906E",
+        "color12": "#A6A27A",
+        "color13": "#B5B188",
+        "color14": "#C1BE95",
+        "color15": "#C7C79E"
+    }
+}

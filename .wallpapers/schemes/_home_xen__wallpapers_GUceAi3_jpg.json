@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/xen/.wallpapers/GUceAi3.jpg",
+    "special": {
+        "background": "#0C1311",
+        "foreground": "#DEDEE0",
+        "cursor": "#DEDEE0"
+    },
+    "colors": {
+        "color0": "#0C1311",
+        "color1": "#9EB04B",
+        "color2": "#496EA4",
+        "color3": "#6492BE",
+        "color4": "#99A6A8",
+        "color5": "#CAC9AE",
+        "color6": "#9DB2C6",
+        "color7": "#DEDEE0",
+        "color8": "#6d7170",
+        "color9": "#9EB04B",
+        "color10": "#496EA4",
+        "color11": "#6492BE",
+        "color12": "#99A6A8",
+        "color13": "#CAC9AE",
+        "color14": "#9DB2C6",
+        "color15": "#DEDEE0"
+    }
+}

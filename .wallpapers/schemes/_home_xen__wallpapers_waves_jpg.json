@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/xen/.wallpapers/waves.jpg",
+    "special": {
+        "background": "#0C1A2C",
+        "foreground": "#F3F3F3",
+        "cursor": "#F3F3F3"
+    },
+    "colors": {
+        "color0": "#0C1A2C",
+        "color1": "#B4BBC4",
+        "color2": "#C0BFC5",
+        "color3": "#BCC3CA",
+        "color4": "#CDD0D5",
+        "color5": "#DCDEE3",
+        "color6": "#E8E8EB",
+        "color7": "#F3F3F3",
+        "color8": "#6d7580",
+        "color9": "#B4BBC4",
+        "color10": "#C0BFC5",
+        "color11": "#BCC3CA",
+        "color12": "#CDD0D5",
+        "color13": "#DCDEE3",
+        "color14": "#E8E8EB",
+        "color15": "#F3F3F3"
+    }
+}

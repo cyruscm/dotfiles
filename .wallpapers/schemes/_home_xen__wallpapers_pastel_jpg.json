@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/xen/.wallpapers/pastel.jpg",
+    "special": {
+        "background": "#1A1621",
+        "foreground": "#E2E7D4",
+        "cursor": "#E2E7D4"
+    },
+    "colors": {
+        "color0": "#1A1621",
+        "color1": "#CC7E85",
+        "color2": "#5CB6D7",
+        "color3": "#AA8FA2",
+        "color4": "#D18B90",
+        "color5": "#EEDC9D",
+        "color6": "#A6D4DC",
+        "color7": "#E2E7D4",
+        "color8": "#757379",
+        "color9": "#CC7E85",
+        "color10": "#5CB6D7",
+        "color11": "#AA8FA2",
+        "color12": "#D18B90",
+        "color13": "#EEDC9D",
+        "color14": "#A6D4DC",
+        "color15": "#E2E7D4"
+    }
+}

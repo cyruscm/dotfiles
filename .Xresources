@@ -1,0 +1,75 @@
+Xft.antialias: true
+Xft.hinting:   true
+Xft.rgba:      rgb
+Xft.hintstyle: hintfull
+Xft.dpi:       175
+URxvt*geometry: 115x40
+URxvt*borderless: 1
+URxvt*scrollBar:            false
+URxvt*saveLines:  2000
+
+*font: xft:Hack:pixelsize=18
+*boldFont: xft:Hack:bold:pixelsize=18
+
+
+! Meta modifier for keybindings
+!URxvt.modifier: super
+
+!! perl extensions
+!URxvt.perl-ext:             default,url-select,clipboard
+
+! url-select (part of urxvt-perls package)
+
+
+! Snazzy - Converted from https://github.com/sindresorhus/iterm2-snazzy
+!          using https://github.com/richo/itermcolors2xdefaults
+
+*background: #1e1f20 
+*foreground: #ebece6
+*cursorColor: #e4e4e4
+
+
+*color0: #000
+
+*color1: #fb4245
+
+*color2: #50fa7b
+
+*color3: #f0fa8b
+
+*color4: #49b9fe
+
+*color5: #fb4cb3
+
+*color6: #8be9fd
+
+*color7: #ededec
+
+*color8: #555555
+
+*color9: #fb4245
+
+*color10: #50fa7b
+
+*color11: #f0fa8b
+
+*color12: #49b9fe
+
+*color13: #fb4cb3
+
+*color14: #8be9fd
+
+*color15: #ededec
+
+rofi.color-enabled: true
+rofi.width: 3840
+rofi.lines: 15
+rofi.font: MonacoB 50
+rofi.padding: 1000
+!rofi.color-normal: #000000, #DEDEDE, #000000, #8be9fd, #000000
+!rofi.color-window: #B3000000, #002b36, #002b36
+rofi.color-window: #B3000000, #EE000000, #EE000000
+rofi.color-normal: #00000000, #DEDEDE, #00000000, #8be9fd, #000000
+!rofi.color-normal: argb:00b0e5d6, #002b36, argb:0068b3a2, argb:bb3087a3, #000000
+
+

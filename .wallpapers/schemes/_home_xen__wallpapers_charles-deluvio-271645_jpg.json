@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/xen/.wallpapers/charles-deluvio-271645.jpg",
+    "special": {
+        "background": "#3f240f",
+        "foreground": "#F4F5F9",
+        "cursor": "#F4F5F9"
+    },
+    "colors": {
+        "color0": "#3f240f",
+        "color1": "#E1DCD3",
+        "color2": "#D9DDE4",
+        "color3": "#DEE1E8",
+        "color4": "#E3E6EC",
+        "color5": "#ECEEF1",
+        "color6": "#EEF1F6",
+        "color7": "#F4F5F9",
+        "color8": "#8b7b6f",
+        "color9": "#E1DCD3",
+        "color10": "#D9DDE4",
+        "color11": "#DEE1E8",
+        "color12": "#E3E6EC",
+        "color13": "#ECEEF1",
+        "color14": "#EEF1F6",
+        "color15": "#F4F5F9"
+    }
+}
