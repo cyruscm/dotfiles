@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		1080,
+		0
+	],
+	"windowSize": [
+		1080,
+		1920
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[],\"localPlugins\":[]}",
+		"plugin-versions": "[]"
+	}
+}

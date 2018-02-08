@@ -1,0 +1,2 @@
+100
+['/home/xen/.config/nvim/./repos/github.com/Shougo/dein.vim', 'Shougo/deoplete.nvim', 'Shougo/neosnippet-snippets', 'Shougo/neosnippet.vim', 'carlitux/deoplete-ternjs', 'dylanaraps/wal.vim', 'easymotion/vim-easymotion', 'jschwarz89/shared-session-vim', 'junegunn/goyo.vim', 'junegunn/limelight.vim', 'kien/ctrlp.vim', 'nathanaelkane/vim-indent-guides', 'pangloss/vim-javascript', 'scrooloose/nerdcommenter', 'scrooloose/nerdtree', 'ternjs/tern_for_vim', 'tpope/vim-fugitive', 'tpope/vim-surround', 'tyrannicaltoucan/vim-deep-space', 'vim-airline/vim-airline', 'w0rp/ale']
